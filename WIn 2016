@@ -3,5 +3,8 @@ Activitat 1.
 Fes un recordatori que digui "X Y has de comprar el pa", on X Y sigui el teu nom i cognom.
 Fes que t'avisi en algun moment de la classe.
 
-Primer, obriu la llista desplegable Eines de l'administrador de Windows Server i feu clic a Programador de tasques. Hi ha la secció d'Accions a la dreta i farem clic a Crea una tasca. A "General" introduirem un nom i una breu descripció de la tasca. Hi ha una secció a la part inferior que diu "Configura per a...." Configurarem això per a Windows Server 2016.
+Primer, obriu la llista desplegable Eines de l'administrador de Windows Server i feu clic a Programador de tasques. Hi ha la secció d'Accions a la dreta 
+i farem clic a Crea una tasca. A "General" introduirem un nom i una breu descripció de la tasca. Hi ha una secció a la part inferior que diu 
+"Configura per a...." Configurarem això per a Windows Server 2016.
 
+[](https://github.com/AleixPeix12/M4-UF1/blob/main/Captura.PNG)
